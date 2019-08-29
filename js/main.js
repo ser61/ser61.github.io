@@ -159,7 +159,7 @@ jQuery(document).on('ready', function () {
 	-------------------------------------- */
 	var _tg_eventspeakerslider = jQuery("#tg-eventspeakerslider")
 	_tg_eventspeakerslider.owlCarousel({
-		loop: true,
+		loop: false,
 		nav: false,
 		animateIn: "fadeIn",
 		autoplay: true,
